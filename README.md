@@ -8,7 +8,7 @@ it returns the single best next message, **ready to send in the prospect's langu
 
 It is the **surgeon** for one thread. For batch analysis of many replies at once, use `reply-audit`
 (the epidemiologist). They feed each other: audit findings become rules here; replies written here are
-tagged so the next audit aggregates cleanly. This plugin **supersedes** the narrow `18-objection-handler`.
+tagged so the next audit aggregates cleanly.
 
 ## What it does
 
