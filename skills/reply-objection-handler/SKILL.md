@@ -38,7 +38,6 @@ Relationship to neighbours:
   surgeon (crafts ONE reply). They feed each other: audit findings become rules here; replies you write
   here get tagged so the next audit can aggregate them.
 - **sequence-writer / 03-copy-generation** = cold sequences from scratch. Not this.
-- This skill **supersedes** the narrow `18-objection-handler`.
 
 ---
 
