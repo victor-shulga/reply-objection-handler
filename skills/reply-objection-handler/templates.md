@@ -242,6 +242,33 @@ the meeting is a by-product. Connection-note variant must be ≤300 chars.*
 
 ---
 
+## PRICE / COMPETITOR-UNDERCUT — "another vendor is cheaper, will you align?"
+
+**Trigger:** "There's another freelancer/agency ~as good, only difference is they're [$X] cheaper. Align to win the project?"
+**Play:** Never full-match instantly (signals the original price was inflated → discount spiral). First
+**isolate** (trial-close: "if price were equal, you'd go with my team?") to confirm price is the ONLY
+gap. Then **re-anchor on RISK, not price** (solo/cheaper vendor = single point of failure; if it stalls
+or needs rework you pay twice + lose weeks). If you concede at all, go **partway, with a reason** — or
+trade (faster payment / smaller scope / case study / referral), never "just cheaper".
+
+```
+Appreciate you being straight with me, [Name] — and good to know the team is the preferred fit. Honest
+take: the real gap with [a solo freelancer] usually isn't the [$X], it's what it costs you if they
+stall, go quiet, or it needs rework — then you're paying twice and losing weeks. With us you get a team,
+built-in [code review], and someone accountable start to finish, so the project doesn't hinge on one
+person's week.
+
+I won't nickel-and-dime you: rather than match to the dollar, I'd meet you partway at [$Y] and stand
+behind the delivery. That way you start de-risked, not just cheap. Fair?
+```
+*Branch — if they say "not only price": "Then let's make sure price isn't masking something else — what
+would make this an easy yes beyond the number?"*
+*Source: Vitalii Omelchenko vs cheaper freelancer / Thierry V. ⚠️ A trial-close like "if price matched
+you'd go with my team?" is good but nearly pre-commits you to matching — when they say yes, still come
+back with risk-reframe + partway, NOT a full $X drop. Concede partway only, tied to a reason.*
+
+---
+
 ## CURIOUS_PROBING — never ignore the question
 
 **Trigger:** "What's your company?" / "How did you find me?" — a counter-question.
