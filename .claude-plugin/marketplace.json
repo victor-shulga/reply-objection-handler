@@ -1,0 +1,22 @@
+{
+  "name": "reply-objection-handler",
+  "metadata": {
+    "description": "Per-reply engine for B2B outbound: paste one reply/thread/lost-proposal/post, get the next ready-to-send message in the prospect's language."
+  },
+  "owner": {
+    "name": "Victor Shulga",
+    "url": "https://github.com/victor-shulga"
+  },
+  "plugins": [
+    {
+      "name": "reply-objection-handler",
+      "source": "./",
+      "description": "Classifies ANY single outbound reply (sentiment + objection type), routes it, and writes ONE ready-to-send reply or follow-up. Hot-lead lock & recovery, incumbent/in-house, channel/routing, wrong-person/geo/ICP, dead-data, opt-out, ghost bumps, value-first re-engage, lost-proposal follow-ups, inbound-trigger cold messages. Growing templates repo. Pairs with reply-audit.",
+      "version": "0.1.0",
+      "keywords": ["outbound", "objection-handling", "reply", "follow-up", "sales", "linkedin", "sdr"],
+      "author": {
+        "name": "Victor Shulga / B2B Global"
+      }
+    }
+  ]
+}
