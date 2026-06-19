@@ -65,6 +65,7 @@ reply-audit, so the message you write aggregates cleanly later.)
 | `SOFT_NO` | "not interested at this time", "no need right now", polite brush-off | Acknowledge, one value seed, offer a specific future date. One reply max. |
 | `TIMING / TOO_BUSY` | "bad timing", "swamped", "circle back later" | Respect it. Offer a concrete future window ("early fall?"). Yes → schedule in CRM. |
 | `INCUMBENT / IN-HOUSE` | "we have a vendor", "trusted partners", "we coordinate in-house" | Don't attack incumbent. Hook the gap word ("mostly"). Position as overflow. One question that tests if it's actually working. |
+| `PRICE / COMPETITOR-UNDERCUT` | "another vendor is ~as good but [$X] cheaper — will you align?" | Never full-match instantly. Isolate (trial-close: "if price were equal, you'd pick us?"), re-anchor on RISK not price, concede only partway with a reason — or trade, never "just cheaper". |
 | `CHANNEL / ROUTING` | "we buy through our A/E or CM", "go through our X team", "don't hire directly" | This is a MAP, not a no. Ask WHO owns that relationship / get referred into the channel. Add those firms as new targets. |
 | `WRONG_PERSON` | "not my department", "I focus on X, talk to Y" | One sentence: ask for the right person/role. If referred → intro-style message naming the referrer. |
 | `WRONG_GEO` | "we don't work in [your city]" | Reframe footprint ("we also cover Tri-State / NJ / FL"), then ask where their projects sit. Overlap → qualify. |
