@@ -1,3 +1,10 @@
+> **Archived.** This repo stopped at the June 2026 version and no longer gets updates.
+> The maintained skill lives in [outbound-engine-skills](https://github.com/victor-shulga/outbound-engine-skills/tree/main/skills/reply-objection-handler).
+>
+> ```bash
+> npx skills add victor-shulga/outbound-engine-skills/skills/reply-objection-handler
+> ```
+
 # reply-objection-handler
 
 Viktor Shulha's **per-reply engine** for B2B outbound — a Claude Code plugin (skill).
